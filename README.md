@@ -21,3 +21,7 @@ Este cambio se ha realizado desde una copia clonada del repositorio.
 2. Selecciona una opción del menú.
 3. Puedes añadir productos y listarlos por pantalla.
 4. El proyecto está pensado para practicar estructuras básicas y control de versiones
+## Nota temporal Shelve
+Pendiente documentar la nueva mejora en Main
+## Nota temporal Shelve
+Pendiente documentar la nueva mejora en Main
