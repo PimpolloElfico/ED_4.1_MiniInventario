@@ -17,4 +17,4 @@ Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.
 Este cambio se ha realizado desde una copia clonada del repositorio.
 
 ## Nota temporal Shelve
-Pendiente documentar la nueva mejora en Main
+Pendiente documentar la nueva mejora en Main 
